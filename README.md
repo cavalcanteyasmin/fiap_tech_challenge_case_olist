@@ -1,7 +1,7 @@
 # Tech Challenge – Case Olist
 ## Objetivo
 
-Analisar os dados de e-commerce da Olist entre 2016 e 2018 para identificar oportunidades de melhoria e propor intervenções, em um relatório executivo para investidores.
+Analisar os dados de e-commerce da Olist entre 2016 e 2018 para identificar oportunidades de melhoria e propor intervenções.
 
 **Contexto:** a Olist é uma empresa brasileira que conecta pequenos vendedores a grandes marketplaces. O vendedor anuncia pela Olist e envia o produto diretamente ao cliente.
 
