@@ -63,7 +63,7 @@ A base é pública e foi obtida no Kaggle: [Brazilian E-Commerce Public Dataset 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/yasminpecavalcante-droid/fiap_tech_challenge_case_olist.git
+   git clone https://github.com/cavalcanteyasmin/fiap_tech_challenge_case_olist.git
    cd fiap_tech_challenge_case_olist
    ```
 
@@ -116,6 +116,7 @@ fiap_tech_challenge_case_olist/
 ├── files/                          # os 9 arquivos CSV da base
 ├── notebooks/
 │   └── tech_challenge_olist.ipynb  # notebook com toda a análise
+├── presentation/                   # relatório e apresentação executiva
 ├── .gitignore                      # arquivos que o Git deve ignorar
 ├── requirements.txt                # bibliotecas do projeto
 └── README.md                       # este arquivo
